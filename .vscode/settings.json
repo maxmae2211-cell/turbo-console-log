@@ -10,5 +10,8 @@
     "typescript.tsc.autoDetect": "off",
     "marquee.widgets.npm-stats.packageNames": [
         "turbo-console-log"
+    ],
+    "i18n-ally.localesPaths": [
+        "../../../../../../Users/maxma/Documents/GitHub/turbo-console-log"
     ]
 }
